@@ -162,5 +162,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 👤Author
 
 *Your Name*
-- GitHub: [@your-username](https://github.com/programmer-sahil)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/programmer-sahil)
+- GitHub: [@sandipanmaity102-pixel](https://github.com/sandipanmaity102-pixel)
+- LinkedIn: [Sandipan Maity](https://linkedin.com/in/[programmer-sahil](https://www.linkedin.com/in/sandipan-maity-35447839a?utm_source=share_via&utm_content=profile&utm_medium=member_android))
