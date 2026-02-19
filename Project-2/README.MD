@@ -150,5 +150,11 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
+## 👤Author
+
+*Your Name*
+- GitHub: [@sandipanmaity102-pixel](https://github.com/sandipanmaity102-pixel)
+- LinkedIn: [Sandipan Maity] (https://www.linkedin.com/in/sandipan-maity/)
+
 
 Built with ❤️ using Python & scikit-learn
