@@ -1,6 +1,5 @@
 
 
-
 # 🏠 House Price Prediction — Linear Regression
 
 A machine learning project that predicts California house prices using Linear Regression, built with Python and scikit-learn.
